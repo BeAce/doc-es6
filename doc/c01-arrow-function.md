@@ -66,7 +66,7 @@ f.getOne();
 
 ##### screenshot
 
-![](./screenshot/arrow03.png)
+![](../screenshot/arrow03.png)
 
 
 ## Arrow
@@ -86,7 +86,7 @@ let b = arr.map(item => item * 2);
 
 ##### screenshot
 
-![](./screenshot/arrow01.png)
+![](../screenshot/arrow01.png)
 
 - 多参数
 
@@ -97,4 +97,4 @@ arr.map((item, index) => console.log(item, index));
 
 ##### screenshot
 
-![](./screenshot/arrow02.png)
+![](../screenshot/arrow02.png)
