@@ -16,5 +16,5 @@
 - [C09 proxies](./c09-proxies.md)
 - [C010 subclassed](./c10-subclassed.md)
 - [C011 number string array object API](./c11-number-string-array-object.md)
-- [C012 promises](./c012-promises.md)
-- [C013 tail call](./c013-tail-call.md)
+- [C012 promises](./c12-promises.md)
+- [C013 tail call](./c13-tail-call.md)
