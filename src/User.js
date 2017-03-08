@@ -1,6 +1,5 @@
 class User {
   constructor(sex) {
-    this.friends = [];
     this.sex = sex || '男';
   }
 
@@ -13,5 +12,7 @@ class User {
   }
 }
 var user = new User("女");
-user.getSex();
-User.method();
+user.getSex(); //性别： 女
+User.method(); //this is a static method!
+user.method(); //user.method is not a function
+
